@@ -1,0 +1,36 @@
+Z:\hálózat tervezése egy iskolába\this_is_pain\this_is_pain\bin\Debug\this_is_pain.exe.config
+Z:\hálózat tervezése egy iskolába\this_is_pain\this_is_pain\bin\Debug\this_is_pain.exe
+Z:\hálózat tervezése egy iskolába\this_is_pain\this_is_pain\bin\Debug\this_is_pain.pdb
+Z:\hálózat tervezése egy iskolába\this_is_pain\this_is_pain\obj\Debug\this_is_pain.csprojAssemblyReference.cache
+Z:\hálózat tervezése egy iskolába\this_is_pain\this_is_pain\obj\Debug\this_is_pain.Form1.resources
+Z:\hálózat tervezése egy iskolába\this_is_pain\this_is_pain\obj\Debug\this_is_pain.Properties.Resources.resources
+Z:\hálózat tervezése egy iskolába\this_is_pain\this_is_pain\obj\Debug\this_is_pain.csproj.GenerateResource.cache
+Z:\hálózat tervezése egy iskolába\this_is_pain\this_is_pain\obj\Debug\this_is_pain.exe
+Z:\hálózat tervezése egy iskolába\this_is_pain\this_is_pain\obj\Debug\this_is_pain.pdb
+C:\Users\berta.gyorgy\Downloads\Paint-main\Paint-main\this_is_pain\this_is_pain\bin\Debug\this_is_pain.exe.config
+C:\Users\berta.gyorgy\Downloads\Paint-main\Paint-main\this_is_pain\this_is_pain\bin\Debug\this_is_pain.exe
+C:\Users\berta.gyorgy\Downloads\Paint-main\Paint-main\this_is_pain\this_is_pain\bin\Debug\this_is_pain.pdb
+C:\Users\berta.gyorgy\Downloads\Paint-main\Paint-main\this_is_pain\this_is_pain\obj\Debug\this_is_pain.csprojAssemblyReference.cache
+C:\Users\berta.gyorgy\Downloads\Paint-main\Paint-main\this_is_pain\this_is_pain\obj\Debug\this_is_pain.Form1.resources
+C:\Users\berta.gyorgy\Downloads\Paint-main\Paint-main\this_is_pain\this_is_pain\obj\Debug\this_is_pain.Properties.Resources.resources
+C:\Users\berta.gyorgy\Downloads\Paint-main\Paint-main\this_is_pain\this_is_pain\obj\Debug\this_is_pain.csproj.GenerateResource.cache
+C:\Users\berta.gyorgy\Downloads\Paint-main\Paint-main\this_is_pain\this_is_pain\obj\Debug\this_is_pain.exe
+C:\Users\berta.gyorgy\Downloads\Paint-main\Paint-main\this_is_pain\this_is_pain\obj\Debug\this_is_pain.pdb
+Z:\12E projektfeladat\PaintApp\Paint-main\Paint-main\this_is_pain\this_is_pain\bin\Debug\this_is_pain.exe.config
+Z:\12E projektfeladat\PaintApp\Paint-main\Paint-main\this_is_pain\this_is_pain\bin\Debug\this_is_pain.exe
+Z:\12E projektfeladat\PaintApp\Paint-main\Paint-main\this_is_pain\this_is_pain\bin\Debug\this_is_pain.pdb
+Z:\12E projektfeladat\PaintApp\Paint-main\Paint-main\this_is_pain\this_is_pain\obj\Debug\this_is_pain.csprojAssemblyReference.cache
+Z:\12E projektfeladat\PaintApp\Paint-main\Paint-main\this_is_pain\this_is_pain\obj\Debug\this_is_pain.Form1.resources
+Z:\12E projektfeladat\PaintApp\Paint-main\Paint-main\this_is_pain\this_is_pain\obj\Debug\this_is_pain.Properties.Resources.resources
+Z:\12E projektfeladat\PaintApp\Paint-main\Paint-main\this_is_pain\this_is_pain\obj\Debug\this_is_pain.csproj.GenerateResource.cache
+Z:\12E projektfeladat\PaintApp\Paint-main\Paint-main\this_is_pain\this_is_pain\obj\Debug\this_is_pain.exe
+Z:\12E projektfeladat\PaintApp\Paint-main\Paint-main\this_is_pain\this_is_pain\obj\Debug\this_is_pain.pdb
+Z:\Projekt munka\Paint2-main\Paint-main\Paint-main\this_is_pain\this_is_pain\bin\Debug\this_is_pain.exe.config
+Z:\Projekt munka\Paint2-main\Paint-main\Paint-main\this_is_pain\this_is_pain\bin\Debug\this_is_pain.exe
+Z:\Projekt munka\Paint2-main\Paint-main\Paint-main\this_is_pain\this_is_pain\bin\Debug\this_is_pain.pdb
+Z:\Projekt munka\Paint2-main\Paint-main\Paint-main\this_is_pain\this_is_pain\obj\Debug\this_is_pain.csprojAssemblyReference.cache
+Z:\Projekt munka\Paint2-main\Paint-main\Paint-main\this_is_pain\this_is_pain\obj\Debug\this_is_pain.Form1.resources
+Z:\Projekt munka\Paint2-main\Paint-main\Paint-main\this_is_pain\this_is_pain\obj\Debug\this_is_pain.Properties.Resources.resources
+Z:\Projekt munka\Paint2-main\Paint-main\Paint-main\this_is_pain\this_is_pain\obj\Debug\this_is_pain.csproj.GenerateResource.cache
+Z:\Projekt munka\Paint2-main\Paint-main\Paint-main\this_is_pain\this_is_pain\obj\Debug\this_is_pain.exe
+Z:\Projekt munka\Paint2-main\Paint-main\Paint-main\this_is_pain\this_is_pain\obj\Debug\this_is_pain.pdb
